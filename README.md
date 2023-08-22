@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @thodoris-spyridis and I am an IT business analyst.
-- 👀 I’m interested in learning more about programming.
-- 🌱 I’m currently learning python, html, CSS.
+I am Thodoris, currently an IT Buisness analyst-consultant. I am not a CS graduate. 
+I got involved with IT stuff totally by accident.
+I am trying to learn programming on the side and hopefully some day it will become a job.
 
 
