@@ -1,4 +1,3 @@
-I am Thodoris, currently a Buisness analyst. 
-I am trying to aquire more technical skills so I can work as a data analyst.
+Α Buisness analyst exploring and learning about data analytics, machine learning and software enginearing.
 
 
