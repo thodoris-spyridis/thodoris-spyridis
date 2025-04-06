@@ -1,3 +1,3 @@
-Α Buisness analyst exploring and learning about data analytics, machine learning and software enginearing.
+Α Buisness analyst exploring and learning about data analytics, machine learning and software engineering.
 
 
