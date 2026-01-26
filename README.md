@@ -1,3 +1,3 @@
-Α Business analyst exploring and learning about data analytics, machine learning and software engineering.
+A D365 F&O functional consultant learning to code as a hobby...
 
 
